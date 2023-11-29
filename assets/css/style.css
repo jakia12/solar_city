@@ -698,3 +698,15 @@ img.road_img {
   width: 55px;
   vertical-align: sub;
 }
+
+.footer .footer-wrapper ul.social-buttons li a {
+  padding: 0.41rem 0.69rem;
+  margin-right: 1rem;
+  font-size: 1.125rem;
+  border: 1px solid #038451;
+  color: #038451;
+}
+.footer .footer-wrapper ul.social-buttons li a:hover {
+  color: #000 !important;
+  background-color: #038451 !important;
+}
